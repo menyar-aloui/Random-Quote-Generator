@@ -12,11 +12,6 @@ function generateQuote(){
     let indexquote= quotes[randomeindex];
     QUOTE.textContent=indexquote
 }
-// second method for the button where i should delete the onclick thing in the html button and add the comment down in the js
-// generateButton.addEventListener('click', generateQuote);
-
-// Initial quote generation on page load:call the function
-// generateQuote();
 
 
 
